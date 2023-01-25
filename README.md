@@ -1,2 +1,10 @@
 # react-tsx-template
- React initial project.
+ React tempalte.
+
+Tech Stack
+- React
+- TypeScript
+- TailwindCSS
+- SWC
+- Vite
+- .tsx, .jsx, es6
